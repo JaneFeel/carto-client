@@ -1,0 +1,34 @@
+{
+  "name": "@carto/carto.js",
+  "version": "4.2.2",
+  "description": "CARTO javascript library",
+  "main": "carto.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CartoDB/carto.js.git"
+  },
+  "dependencies": {
+    "backbone": "1.2.3",
+    "backbone-poller": "^1.1.3",
+    "camshaft-reference": "JaneFeel/camshaft-reference#main",
+    "carto": "cartodb/carto#master",
+    "@carto/zera": "1.0.7",
+    "clip-path-polygon": "0.1.12",
+    "d3-array": "1.2.1",
+    "d3-format": "1.2.0",
+    "d3-time-format": "2.1.0",
+    "jquery": "2.1.4",
+    "mustache": "1.1.0",
+    "perfect-scrollbar": "https://github.com/CartoDB/perfect-scrollbar.git#master",
+    "postcss": "5.0.19",
+    "promise-polyfill": "^6.1.0",
+    "torque.js": "CartoDB/torque#master",
+    "underscore": "1.8.3",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "author": {
+    "name": "CARTO",
+    "url": "https://carto.com/"
+  },
+  "license": "BSD-3-Clause"
+}
